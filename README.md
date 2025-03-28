@@ -5,7 +5,7 @@ rabbitpad
 </h2>
 &nbsp;
 
-### 📷 Gallary
+### 📷 Gallery
 <img src="https://github.com/user-attachments/assets/1fe56533-4edb-4d3d-87c8-9fa708e3c6f1" width="200" alt="Rough sketch">
 
 
